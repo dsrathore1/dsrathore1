@@ -1,26 +1,11 @@
 ### Hi there 👋
 
-<!--
-**dsrathore1/dsrathore1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I’m currently working on Java Project
+- 🔭 I’m currently working on Projects.
 - 🌱 I’m currently learning JavaScript, ReactJs, Java, Python, and Android Studio
 - 👯 I’m looking to collaborate on You Tube
 - 🤔 I’m looking for help with Blogging
 - 💬 Ask me about intersting facts
-- 📫 How to reach me: Instagram
+- 📫 How to reach me: [Instagram](https://www.instagram.com/ds_king__/).
 - 😄 Pronouns: He/His
 - ⚡ Passion: Coding and Business.
 - 😇 Hobbies: UI/UX design, Cooking, and most probably I love Photography
