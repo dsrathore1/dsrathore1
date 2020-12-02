@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Java Project
+- 🌱 I’m currently learning JavaScript, ReactJs, Java, Python, and Android Studio
+- 👯 I’m looking to collaborate on You Tube
+- 🤔 I’m looking for help with Blogging
+- 💬 Ask me about intersting facts
+- 📫 How to reach me: Instagram
+- 😄 Pronouns: He/His
+- ⚡ Passion: Coding and Business.
+- 😇 Hobbies: UI/UX design, Cooking, and most probably I love Photography
