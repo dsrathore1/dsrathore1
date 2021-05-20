@@ -5,9 +5,6 @@
 <img align ="center" width = "100" src ="https://raw.githubusercontent.com/dsrathore1/dsrathore1/main/Images/WeFarmous.png" />
  </div>
  
-<br />
-<br />
- 
 ## Hi there 👋
 
 - 🔭 I’m currently working on Projects.
@@ -18,9 +15,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Passion: Coding and Business.
 - 😇 Hobbies: UI/UX design, Cooking, and most probably I love Photography.
-
-
-<br />
 
 ### Connect with me :
 
