@@ -2,7 +2,7 @@
 
  
 <div align ='center'>
-<img align ="center" width = "500" src ="https://raw.githubusercontent.com/dsrathore1/dsrathore1/main/Images/WeFarmous.png" />
+<img align ="center" width = "100" src ="https://raw.githubusercontent.com/dsrathore1/dsrathore1/main/Images/WeFarmous.png" />
  </div>
  
 <br />
