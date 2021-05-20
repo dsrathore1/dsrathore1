@@ -2,8 +2,8 @@
 
  
 <div align ='center'>
-<img align ="center" width = "100" src ="https://raw.githubusercontent.com/dsrathore1/dsrathore1/main/Images/WeFarmous.png" />
- </div>
+<img align ="center" width = "80" src ="https://raw.githubusercontent.com/dsrathore1/dsrathore1/main/Images/WeFarmous.png" />
+</div>
  
 ## Hi there 👋
 
@@ -24,7 +24,6 @@
 [<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />](https://www.linkedin.com/in/dsrathore1/)
 [<img align="left" alt="Instagram" width="26px" src="https://www.svgrepo.com/show/111199/instagram.svg" />](https://www.instagram.com/ds_king__/)
 
-<br />
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
