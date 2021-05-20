@@ -13,4 +13,4 @@
 
 ### Connect with me:
 
-[<img align = "left" alt - "Instagram" width ="22px" src = "https://www.instagram.com/ds_king__/"/>][].
+[<img align = "left" alt - "Instagram" width ="22px" src = "https://www.instagram.com/ds_king__/"/>][https://github.com/dsrathore1/dsrathore1/blob/main/Images/instagram.svg].
