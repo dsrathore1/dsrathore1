@@ -1,5 +1,10 @@
-# I'm a Founder and CEO of [WeFarmous](https://github.com/dsrathore1/dsrathore1/blob/main/Images/WeFarmous.png)
+# **Founder and CEO of WeFarmous**
 
+ 
+<div align ='center'>
+<img align ="center" width = "500" src ="https://raw.githubusercontent.com/dsrathore1/dsrathore1/main/Images/WeFarmous.png" />
+ </div>
+ 
 ## Hi there 👋
 
 - 🔭 I’m currently working on Projects.
@@ -13,10 +18,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />](https://t.me/wefarmous)
+[<img align="left" alt="Blogger" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" />](https://www.blogger.com/blog/posts/1278161429302448156?hl=en&tab=jj)
+[<img align="left" alt="Twitter" width="22px" src="https://www.svgrepo.com/show/157815/twitter.svg" />](https://twitter.com/dsrathore_1)
+[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />](https://www.linkedin.com/in/dsrathore1/)
+[<img align="left" alt="Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />](https://www.instagram.com/ds_king__/)
 
 <br />
