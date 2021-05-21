@@ -1,9 +1,9 @@
-<h1 align = "center"><b>Founder and CEO of WeFarmous</b></h1>
+<h1 align = "center"><b>-: Welcome :-</b></h1>
 
- 
+<!--  
 <div align ='center'>
 <img align ="center" width = "80" src ="https://raw.githubusercontent.com/dsrathore1/dsrathore1/main/Images/WeFarmous.png" />
-</div>
+</div> -->
  
 ## Hi there 👋
 
