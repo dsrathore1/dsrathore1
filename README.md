@@ -1,4 +1,4 @@
-<h1 align = "center"><b>-: Welcome :-</b></h1>
+<h1 align = "center"><b><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> -: Hello, Welcome to DS Rathore's World :- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></b></h1> 
 
 <!--  
 <div align ='center'>
@@ -32,11 +32,26 @@
 <br />
 <br />
 
+## Trophies :
+<img src="https://github-profile-trophy.vercel.app/?username=a8hok&theme=tokyonight&margin-w=15" />
+
+<br />
+<br />
+
+## My Cotibution Graph
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=dsrathore1&theme=react-dark)
+
+
+<br />
+<br />
+
 ## Status :
+a
+<p><img align="left" width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsrathore1&show_icons=true&locale=en&layout=compact&theme=bear" alt="dsrathore1" /></p>
 
-<p><img align="left" width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsrathore1&show_icons=true&locale=en&layout=compact" alt="dsrathore1" /></p>
+<p>&nbsp;<img align="right" width="500" height="300"  src="https://github-readme-stats.vercel.app/api?username=dsrathore1&show_icons=true&locale=en&theme=bear"alt="dsrathore1" /></p>
 
-<p>&nbsp;<img align="right" width="500" height="300"  src="https://github-readme-stats.vercel.app/api?username=dsrathore1&show_icons=true&locale=en" alt="dsrathore1" /></p>
 <div align= "left">
-<p><img align="center" width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=dsrathore1&" alt="dsrathore1" /></p>
+<p><img align="center" width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=dsrathore1&theme=bear" alt="dsrathore1" /></p>
 </div>
