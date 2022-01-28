@@ -1,4 +1,4 @@
-<h1 align = "center"><b><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> -: Hello, Welcome to DS Rathore's World :- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></b></h1> 
+<h1 align = "center"><b> -: <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hey , I'm Digpal :- </b></h1> 
 
 <!--  
 <div align ='center'>
@@ -7,14 +7,13 @@
  
 ## Hi there 👋
 - 🌍 Check Out My Portfolio https://dsrathore1.github.io/Portfolio.github.io/
-- 🔭 I’m currently working on Projects.
-- 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate on You Tube
-- 🤔 I’m looking for help with Blogging
-- 💬 Ask me about intersting facts
-- 😄 Pronouns: He/His
+- 🔭 Recently, I’m working on some awesome Projects.
+- 🌱 Currently learning Blockchain Technology.
+- 👯 Looking to collaborate with smart people.
+- 💬 Ask me about intersting facts.
+- 😄 Pronouns: He/His.
 - ⚡ Passion: Coding and Business.
-- 😇 Hobbies: UI/UX design, Cooking, and most probably I love Photography.
+- 😇 Hobbies: UI/UX designing, Cooking, and most important I love [Photography](https://www.instagram.com/amblent_photographer/).
 
 ### Connect with me :
 
