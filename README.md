@@ -7,8 +7,8 @@
  
 ## Hi there 👋
 - 🌍 Check Out My Portfolio https://dsrathore1.github.io/Portfolio.github.io/
-- 🔭 Recently, I’m working on some awesome Projects.
-- 🌱 Currently learning Blockchain Technology.
+- 🔭 I’m working on some awesome Projects.
+- 🌱 Currently learning Data Structure and Algorithm.
 - 👯 Looking to collaborate with smart people.
 - 💬 Ask me about intersting facts.
 - 😄 Pronouns: He/His.
