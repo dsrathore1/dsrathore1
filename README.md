@@ -37,7 +37,7 @@
 <br />
 <br />
 
-## My Cotibution Graph
+## My Contribution Graph
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=dsrathore1&theme=react-dark)
 
@@ -46,7 +46,7 @@
 <br />
 
 ## Status :
-a
+
 <p><img align="left" width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsrathore1&show_icons=true&locale=en&layout=compact&theme=bear" alt="dsrathore1" /></p>
 
 <p>&nbsp;<img align="right" width="500" height="300"  src="https://github-readme-stats.vercel.app/api?username=dsrathore1&show_icons=true&locale=en&theme=bear"alt="dsrathore1" /></p>
