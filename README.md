@@ -70,7 +70,7 @@
 
 ## My Contribution Graph
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=dsrathore1&theme=react-dark)
+[![Digpal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dsrathore1&theme=xcode)](https://github.com/dsrathore1/github-readme-activity-graph)
 
 
 <br />
