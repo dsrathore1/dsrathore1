@@ -17,22 +17,22 @@
 
 ### Connect with me :
 
-[<img align="left" alt="codeSTACKr.com" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />](https://t.me/wefarmous)
-[<img align="left" alt="Blogger" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" />](https://www.blogger.com/blog/posts/1278161429302448156?hl=en&tab=jj)
-[<img align="left" alt="Twitter" width="26px" src="https://www.svgrepo.com/show/157815/twitter.svg" />](https://twitter.com/dsrathore_1)
-[<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />](https://www.linkedin.com/in/dsrathore1/)
-[<img align="left" alt="Instagram" width="26px" src="https://www.svgrepo.com/show/111199/instagram.svg" />](https://www.instagram.com/ds_king__/)
-[<img align="left" alt="GitHub" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />](https://github.com/dsrathore1)
+[<img align="left" alt="codeSTACKr.com" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" />](https://t.me/wefarmous)
+[<img align="left" alt="Blogger" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" title="Blogger"/>](https://www.blogger.com/blog/posts/1278161429302448156?hl=en&tab=jj)
+[<img align="left" alt="Twitter" width="26px" title="Twitter" src="https://www.svgrepo.com/show/157815/twitter.svg" />](https://twitter.com/dsrathore_1)
+[<img align="left" alt="LinkedIn" title = "LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />](https://www.linkedin.com/in/dsrathore1/)
+[<img align="left" alt="Instagram" title="Instagram" width="26px" src="https://www.svgrepo.com/show/111199/instagram.svg" />](https://www.instagram.com/ds_king__/)
+[<img align="left" alt="GitHub" title="GitHub" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />](https://github.com/dsrathore1)
 
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="26" height="26"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="26" height="26"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="26" height="26"/> </a>
-<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="26" height="26"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="26" height="26"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="26" height="26"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="26" height="26"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="26" height="26"/> </a>
+<a href="https://dart.dev" target="_blank"> <img title="Dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="26" height="26"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="26" height="26"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26" height="26"/> </a>
 <a href="https://www.behance.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="26" height="26"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="26" height="26"/> </a>
