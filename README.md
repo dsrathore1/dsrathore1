@@ -13,12 +13,11 @@
 - 💬 Ask me about intersting facts.
 - 😄 Pronouns: He/His.
 - ⚡ Passion: Coding and Business.
-- 😇 Hobbies: UI/UX designing, Cooking, and most important I love [Photography](https://www.instagram.com/amblent_photographer/).
+- 😇 Hobbies: UI/UX designing, Cooking, and most important I love [Photography](https://www.instagram.com/amblent_photographer/) & Cooking.
 
 ### Connect with me :
 
 [<img align="left" alt="codeSTACKr.com" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" />](https://t.me/wefarmous)
-[<img align="left" alt="Blogger" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" title="Blogger"/>](https://www.blogger.com/blog/posts/1278161429302448156?hl=en&tab=jj)
 [<img align="left" alt="Twitter" width="26px" title="Twitter" src="https://www.svgrepo.com/show/157815/twitter.svg" />](https://twitter.com/dsrathore_1)
 [<img align="left" alt="LinkedIn" title = "LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />](https://www.linkedin.com/in/dsrathore1/)
 [<img align="left" alt="Instagram" title="Instagram" width="26px" src="https://www.svgrepo.com/show/111199/instagram.svg" />](https://www.instagram.com/ds_king__/)
@@ -41,7 +40,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26"/> </a>
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="26" height="26"/> </a>
-<a href="https://graphql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="kotlin" width="45" height="45"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="26" height="26"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="46" height="46"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="26" height="26"/> </a>
@@ -51,7 +49,6 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="35" width="35"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="35" width="35"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="45" width="45"/></a> 
-<a><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" height="35" width="35"/></a> 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="45" width="45"/></a>  
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="45" width="45"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" width="35"/></a>  
