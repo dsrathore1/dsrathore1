@@ -23,12 +23,16 @@ I thrive on building **resilient cloud architectures**, optimizing **CI/CD pipel
 
 📢 ***Motto:*** _"Building the future, one automated pipeline at a time."_ 
 
-🚀 **Currently Expanding My Skills in:**  
+---
+
+### 🚀 **Currently Expanding My Skills in:**  
 ✅ **Advanced Terraform, Kubernetes & Serverless Architectures**  
 ✅ **Machine Learning Engineering & MLOps Best Practices**  
 ✅ **Cloud Security & AI-Driven DevOps Automation**  
 
-🎯 **Future Plans:**  
+---
+
+### 🎯 **Future Plans:**  
 - 🏗 **Develop a cutting-edge MLOps pipeline** integrating AI for **self-healing infrastructure**  
 - 🔍 Master **Cloud Security & FinOps** to optimize cloud costs at scale  
 - 🤖 Build **AI-powered DevOps automation tools** for intelligent deployments  
