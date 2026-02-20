@@ -82,8 +82,6 @@ Here are some of the tools and technologies I work with:
 
 ### 📊 GitHub Stats & Daily Streak
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dsrathore1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsrathore1&theme=tokyonight&hide_border=true" />
 </div>
 
