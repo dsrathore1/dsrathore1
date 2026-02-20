@@ -80,7 +80,7 @@ Here are some of the tools and technologies I work with:
 ---
 
 
-### 📊 GitHub Stats & Daily Streak
+### 📊 Daily Streak
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsrathore1&theme=tokyonight&hide_border=true" />
 </div>
