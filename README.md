@@ -1,6 +1,6 @@
 <!-- Digpal Singh Rathore | Cloud DevOps Engineer & AI/MLOps Enthusiast -->
 
-<h1 align="center">👋 Hey there, I'm Digpal Singh Rathore!</h1>
+<h1 align="center">👋 Hey there, I'm Digpal Singh Rathore</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Cloud+DevOps+Engineer;Innovator+%26+Tech+Enthusiast;Aspiring+AI%2FMLOps+Engineer" alt="Typing SVG" />
